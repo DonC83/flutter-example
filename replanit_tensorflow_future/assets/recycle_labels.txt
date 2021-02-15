@@ -1,0 +1,4 @@
+coffeecup
+dog
+drinkcan
+glassbottle
